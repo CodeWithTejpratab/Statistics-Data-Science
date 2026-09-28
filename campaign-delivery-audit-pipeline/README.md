@@ -39,7 +39,6 @@ nbcu_project/
 └── docs/
     ├── SOP.md                       # how to run/refresh this process
     ├── tableau_dashboard_spec.md     # dashboard + LOD/parameter design
-    └── domo_mapping.md               # pandas-step -> DOMO-equivalent mapping
 ```
 
 ## How to run it

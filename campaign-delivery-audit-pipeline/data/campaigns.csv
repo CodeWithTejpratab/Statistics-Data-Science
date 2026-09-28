@@ -1,0 +1,121 @@
+campaign_id,advertiser,market,product,sales_rep,flight_start,flight_end,goal_impressions,budget
+CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,2026-03-08,2026-03-22,100000,1831.06
+CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,2026-01-13,2026-01-20,50000,553.05
+CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2026-02-24,2026-03-24,100000,1428.89
+CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,2026-04-02,2026-04-23,100000,1101.44
+CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,2026-01-29,2026-02-19,150000,2467.82
+CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,2026-04-11,2026-04-18,500000,6052.25
+CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,2026-07-04,2026-07-11,50000,862.88
+CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,2026-04-12,2026-05-03,250000,4224.9
+CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,2026-02-27,2026-03-20,750000,15834.87
+CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,2026-05-21,2026-06-04,100000,1447.16
+CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,2026-07-20,2026-07-27,100000,1950.52
+CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,2026-02-28,2026-03-21,100000,1717.61
+CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,2026-02-09,2026-02-23,750000,11894.37
+CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,2026-04-17,2026-05-08,100000,2196.26
+CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,2026-07-17,2026-07-24,50000,506.99
+CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,2026-04-13,2026-05-11,500000,10972.85
+CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,2026-06-28,2026-07-05,750000,15290.28
+CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,2026-04-26,2026-05-10,250000,2011.36
+CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,2026-02-01,2026-02-22,750000,11330.46
+CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,2026-05-23,2026-05-30,500000,6269.09
+CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,2026-03-07,2026-03-14,100000,2029.21
+CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,2026-01-22,2026-02-05,100000,1723.65
+CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2026-06-09,2026-07-07,100000,2100.48
+CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2026-04-27,2026-05-25,50000,573.53
+CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,2026-05-26,2026-06-09,500000,5541.52
+CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2026-01-13,2026-02-03,50000,759.91
+CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2026-02-07,2026-03-07,100000,1898.47
+CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,2026-06-22,2026-07-20,150000,2089.52
+CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,2026-01-20,2026-02-17,750000,9562.68
+CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2026-05-22,2026-06-19,100000,1390.63
+CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,2026-04-28,2026-05-05,50000,856.5
+CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,2026-02-16,2026-03-16,250000,3684.75
+CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,2026-01-05,2026-02-02,150000,3145.69
+CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2026-06-23,2026-07-21,100000,1065.86
+CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2026-01-20,2026-02-10,50000,435.1
+CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,2026-01-19,2026-01-26,100000,895.93
+CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,2026-05-30,2026-06-13,500000,8161.63
+CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,2026-05-29,2026-06-19,150000,1628.94
+CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,2026-02-07,2026-02-28,250000,3106.62
+CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,2026-05-29,2026-06-05,50000,776.34
+CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,2026-01-22,2026-02-05,150000,1798.47
+CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,2026-06-10,2026-06-17,750000,14579.59
+CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,2026-02-03,2026-02-10,750000,11808.85
+CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,2026-07-07,2026-07-28,100000,1762.5
+CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,2026-01-18,2026-01-25,750000,10447.55
+CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,2026-07-21,2026-08-04,750000,16287.88
+CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,2026-05-28,2026-06-04,50000,452.67
+CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,2026-06-03,2026-06-17,250000,2446.06
+CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,2026-02-27,2026-03-13,750000,7079.33
+CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,2026-03-06,2026-03-20,100000,2033.98
+CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,2026-07-24,2026-08-21,750000,15072.67
+CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,2026-04-12,2026-04-19,250000,2778.52
+CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,2026-03-03,2026-03-10,750000,8027.86
+CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,2026-04-04,2026-05-02,750000,16302.07
+CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,2026-03-12,2026-03-26,500000,10737.74
+CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,2026-04-26,2026-05-17,750000,14257.5
+CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,2026-04-13,2026-04-27,150000,1293.21
+CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,2026-06-29,2026-07-13,150000,2105.72
+CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,2026-07-08,2026-07-29,500000,6164.99
+CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,2026-05-26,2026-06-09,100000,1388.62
+CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,2026-03-23,2026-04-20,500000,9836.08
+CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,2026-06-02,2026-06-23,250000,3546.25
+CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,2026-06-22,2026-06-29,150000,2282.45
+CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,2026-06-26,2026-07-17,100000,1929.19
+CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,2026-05-06,2026-05-13,250000,3450.54
+CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2026-05-11,2026-06-08,100000,1006.6
+CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2026-02-19,2026-03-19,50000,790.18
+CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,2026-06-24,2026-07-15,250000,4144.28
+CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,2026-02-14,2026-03-14,250000,2907.17
+CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,2026-06-14,2026-06-28,150000,2123.73
+CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,2026-03-27,2026-04-03,100000,1011.16
+CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,2026-01-21,2026-02-18,250000,3158.08
+CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,2026-04-22,2026-05-20,500000,10622.43
+CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,2026-01-06,2026-01-27,150000,2782.3
+CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,2026-06-08,2026-06-22,250000,2767.98
+CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,2026-04-01,2026-04-29,750000,7732.97
+CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,2026-01-11,2026-02-08,500000,7950.74
+CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2026-02-08,2026-03-08,100000,870.4
+CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,2026-03-29,2026-04-19,250000,2973.9
+CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,2026-01-09,2026-01-16,150000,1670.87
+CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,2026-02-25,2026-03-04,500000,5066.68
+CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,2026-05-29,2026-06-12,250000,4448.13
+CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,2026-07-15,2026-07-22,100000,2150.61
+CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,2026-06-01,2026-06-29,250000,5295.15
+CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,2026-01-31,2026-02-21,750000,12304.32
+CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,2026-05-21,2026-06-18,750000,9890.99
+CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,2026-05-10,2026-05-17,250000,5362.76
+CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,2026-07-11,2026-08-01,500000,9657.39
+CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,2026-07-11,2026-08-01,150000,2988.6
+CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,2026-07-16,2026-08-13,500000,8272.32
+CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,2026-03-29,2026-04-12,250000,2742.42
+CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,2026-07-03,2026-07-24,500000,4071.06
+CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,2026-05-10,2026-05-24,750000,10998.98
+CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,2026-03-21,2026-04-04,250000,4421.26
+CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,2026-05-26,2026-06-16,250000,5488.21
+CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,2026-03-15,2026-04-05,150000,1684.13
+CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,2026-07-19,2026-08-02,100000,1102.94
+CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2026-07-18,2026-08-08,50000,982.84
+CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,2026-03-23,2026-03-30,750000,11608.42
+CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,2026-03-20,2026-04-03,750000,15118.84
+CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,2026-03-18,2026-04-15,250000,3541.64
+CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,2026-02-03,2026-02-10,250000,3721.11
+CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2026-05-29,2026-06-19,50000,1095.74
+CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,2026-06-06,2026-06-20,500000,6662.65
+CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,2026-03-24,2026-03-31,500000,10720.76
+CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,2026-03-13,2026-03-20,100000,1135.81
+CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,2026-04-19,2026-05-17,750000,12235.02
+CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,2026-07-04,2026-07-25,750000,15025.87
+CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,2026-06-23,2026-07-07,250000,2401.72
+CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,2026-01-23,2026-01-30,100000,1909.68
+CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,2026-02-05,2026-03-05,750000,9192.96
+CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2026-05-11,2026-06-08,50000,818.63
+CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,2026-01-11,2026-01-18,100000,2146.68
+CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,2026-06-01,2026-06-08,100000,1458.7
+CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2026-04-26,2026-05-24,50000,729.01
+CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,2026-02-15,2026-03-08,250000,4427.86
+CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,2026-05-01,2026-05-08,150000,1730.04
+CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,2026-06-22,2026-07-20,250000,2189.71
+CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,2026-06-14,2026-07-12,50000,542.49
+CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,2026-07-02,2026-07-30,50000,420.21

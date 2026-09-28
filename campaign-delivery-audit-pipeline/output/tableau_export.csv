@@ -1,0 +1,1971 @@
+date,campaign_id,advertiser,market,product,sales_rep,impressions_delivered,goal_impressions
+2026-03-08,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6893,100000
+2026-03-09,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,8296,100000
+2026-03-10,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,9858,100000
+2026-03-11,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6722,100000
+2026-03-12,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6722,100000
+2026-03-13,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,9958,100000
+2026-03-14,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,8509,100000
+2026-03-15,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6302,100000
+2026-03-16,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,8108,100000
+2026-03-17,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6312,100000
+2026-03-18,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,6308,100000
+2026-03-19,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,7571,100000
+2026-03-20,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,3724,100000
+2026-03-21,CMP-1001,Coastal Bank,New York,CTV Video,M. Douglas,4061,100000
+2026-01-14,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,4654,50000
+2026-01-15,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,6721,50000
+2026-01-16,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,4817,50000
+2026-01-17,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,4031,50000
+2026-01-18,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,8515,50000
+2026-01-19,CMP-1002,Metro Realty,Los Angeles,Local Digital Display,R. Foster,5880,50000
+2026-02-24,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2180,100000
+2026-02-25,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2925,100000
+2026-02-26,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3479,100000
+2026-02-27,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2411,100000
+2026-02-28,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3704,100000
+2026-03-01,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2877,100000
+2026-03-02,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3139,100000
+2026-03-03,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2876,100000
+2026-03-04,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,4954,100000
+2026-03-05,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3374,100000
+2026-03-07,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2490,100000
+2026-03-08,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,4082,100000
+2026-03-09,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2352,100000
+2026-03-10,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3562,100000
+2026-03-11,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,1727,100000
+2026-03-12,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2261,100000
+2026-03-13,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3552,100000
+2026-03-14,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,4011,100000
+2026-03-15,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3531,100000
+2026-03-16,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3288,100000
+2026-03-17,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3131,100000
+2026-03-18,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2134,100000
+2026-03-19,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2776,100000
+2026-03-20,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,2996,100000
+2026-03-21,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,4280,100000
+2026-03-22,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,3676,100000
+2026-03-23,CMP-1003,Metro Realty,Miami,Linear Spot,S. Patel,1893,100000
+2026-04-02,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,4212,100000
+2026-04-03,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,3872,100000
+2026-04-04,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5374,100000
+2026-04-05,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5862,100000
+2026-04-06,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5746,100000
+2026-04-07,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,3683,100000
+2026-04-08,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,4301,100000
+2026-04-09,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5047,100000
+2026-04-10,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5798,100000
+2026-04-11,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,4102,100000
+2026-04-12,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,4445,100000
+2026-04-13,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,3372,100000
+2026-04-14,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,3267,100000
+2026-04-15,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5608,100000
+2026-04-16,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,6241,100000
+2026-04-17,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,4577,100000
+2026-04-19,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5830,100000
+2026-04-21,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,5082,100000
+2026-04-22,CMP-1004,Summit Law Partners,New York,Peacock Pre-roll,R. Foster,3909,100000
+2026-01-29,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,9724,150000
+2026-01-30,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6961,150000
+2026-01-31,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,9771,150000
+2026-02-01,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,2423,150000
+2026-02-02,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,8467,150000
+2026-02-03,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7176,150000
+2026-02-04,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6498,150000
+2026-02-06,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7185,150000
+2026-02-07,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,3533,150000
+2026-02-08,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6638,150000
+2026-02-09,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7651,150000
+2026-02-10,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,9619,150000
+2026-02-11,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6113,150000
+2026-02-12,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,5604,150000
+2026-02-13,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6142,150000
+2026-02-14,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,8631,150000
+2026-02-15,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7601,150000
+2026-02-16,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,6093,150000
+2026-02-17,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7925,150000
+2026-02-18,CMP-1005,UrbanEats Delivery,Los Angeles,Linear Spot,R. Foster,7194,150000
+2026-04-11,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,62203,500000
+2026-04-12,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,69265,500000
+2026-04-13,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,68049,500000
+2026-04-14,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,47841,500000
+2026-04-15,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,81030,500000
+2026-04-16,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,80369,500000
+2026-04-17,CMP-1006,Acme Auto Group,Boston,Local Digital Display,J. Alvarez,75541,500000
+2026-07-04,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,4208,50000
+2026-07-05,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,5828,50000
+2026-07-06,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,5955,50000
+2026-07-07,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,5206,50000
+2026-07-08,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,6250,50000
+2026-07-10,CMP-1007,Evergreen Energy Co,Washington DC,Local Digital Display,K. Chen,7171,50000
+2026-04-12,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,14491,250000
+2026-04-13,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,14779,250000
+2026-04-14,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,13626,250000
+2026-04-15,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,7224,250000
+2026-04-16,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,13792,250000
+2026-04-17,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,14094,250000
+2026-04-18,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,22435,250000
+2026-04-19,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,13217,250000
+2026-04-20,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,14931,250000
+2026-04-21,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,13764,250000
+2026-04-22,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,9828,250000
+2026-04-23,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,17852,250000
+2026-04-24,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,16495,250000
+2026-04-25,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,16630,250000
+2026-04-26,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,10728,250000
+2026-04-27,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,18754,250000
+2026-04-29,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,9018,250000
+2026-04-30,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,15922,250000
+2026-05-01,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,21488,250000
+2026-05-02,CMP-1008,Summit Law Partners,Los Angeles,Peacock Pre-roll,J. Alvarez,10446,250000
+2026-02-27,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,31920,750000
+2026-02-28,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,27224,750000
+2026-03-01,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,19070,750000
+2026-03-02,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,31678,750000
+2026-03-03,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,22873,750000
+2026-03-04,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,34831,750000
+2026-03-05,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,23985,750000
+2026-03-07,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,43212,750000
+2026-03-08,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,25045,750000
+2026-03-10,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,28636,750000
+2026-03-11,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,37478,750000
+2026-03-12,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,21560,750000
+2026-03-13,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,32915,750000
+2026-03-14,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,41321,750000
+2026-03-15,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,18628,750000
+2026-03-16,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,32582,750000
+2026-03-17,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,33167,750000
+2026-03-18,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,37231,750000
+2026-03-19,CMP-1009,UrbanEats Delivery,Chicago,Peacock Mid-roll,M. Douglas,21513,750000
+2026-05-21,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,6310,100000
+2026-05-22,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,5996,100000
+2026-05-23,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,5932,100000
+2026-05-24,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,6065,100000
+2026-05-25,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,4633,100000
+2026-05-26,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,5906,100000
+2026-05-27,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,5991,100000
+2026-05-28,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,4585,100000
+2026-05-29,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,8186,100000
+2026-05-30,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,6243,100000
+2026-05-31,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,3919,100000
+2026-06-01,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,6498,100000
+2026-06-02,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,4222,100000
+2026-06-03,CMP-1010,Coastal Bank,Miami,CTV Video,K. Chen,6680,100000
+2026-07-20,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,12252,100000
+2026-07-21,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,19127,100000
+2026-07-23,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,17005,100000
+2026-07-24,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,18582,100000
+2026-07-25,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,22724,100000
+2026-07-26,CMP-1011,Summit Law Partners,Atlanta,Peacock Pre-roll,M. Douglas,14469,100000
+2026-02-28,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3145,100000
+2026-03-01,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3220,100000
+2026-03-02,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3967,100000
+2026-03-03,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4390,100000
+2026-03-04,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4325,100000
+2026-03-05,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4882,100000
+2026-03-06,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4058,100000
+2026-03-07,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,5515,100000
+2026-03-08,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3777,100000
+2026-03-09,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,6796,100000
+2026-03-10,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4678,100000
+2026-03-11,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3178,100000
+2026-03-12,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,2962,100000
+2026-03-13,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4533,100000
+2026-03-14,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3819,100000
+2026-03-15,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4767,100000
+2026-03-16,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,4524,100000
+2026-03-17,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3971,100000
+2026-03-18,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3189,100000
+2026-03-19,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,2513,100000
+2026-03-20,CMP-1012,UrbanEats Delivery,San Francisco,Peacock Mid-roll,J. Alvarez,3593,100000
+2026-02-09,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,58852,750000
+2026-02-10,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,38465,750000
+2026-02-11,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,58281,750000
+2026-02-12,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,61243,750000
+2026-02-13,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,43518,750000
+2026-02-14,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,58009,750000
+2026-02-15,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,56675,750000
+2026-02-16,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,39900,750000
+2026-02-17,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,60859,750000
+2026-02-18,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,63694,750000
+2026-02-19,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,70988,750000
+2026-02-20,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,70579,750000
+2026-02-21,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,36622,750000
+2026-02-22,CMP-1013,Northline Furniture,Boston,Peacock Pre-roll,M. Douglas,42765,750000
+2026-04-17,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5383,100000
+2026-04-18,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5384,100000
+2026-04-19,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,9365,100000
+2026-04-20,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5451,100000
+2026-04-21,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,6124,100000
+2026-04-22,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5908,100000
+2026-04-23,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5547,100000
+2026-04-24,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,4394,100000
+2026-04-25,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5675,100000
+2026-04-26,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,3848,100000
+2026-04-27,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,4488,100000
+2026-04-28,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,4191,100000
+2026-04-30,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,4868,100000
+2026-05-01,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,7531,100000
+2026-05-03,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,2543,100000
+2026-05-04,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,5588,100000
+2026-05-05,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,2847,100000
+2026-05-06,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,4207,100000
+2026-05-07,CMP-1014,Summit Law Partners,Miami,OTT Display,S. Patel,6069,100000
+2026-07-17,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,4945,50000
+2026-07-19,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,5558,50000
+2026-07-20,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,7919,50000
+2026-07-21,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,5533,50000
+2026-07-22,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,7135,50000
+2026-07-23,CMP-1015,Peak Insurance,Atlanta,OTT Display,J. Alvarez,6846,50000
+2026-04-13,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,23637,500000
+2026-04-14,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,17828,500000
+2026-04-15,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,7597,500000
+2026-04-16,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,16106,500000
+2026-04-17,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,12843,500000
+2026-04-18,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,18669,500000
+2026-04-19,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,12340,500000
+2026-04-20,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,14947,500000
+2026-04-21,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,17332,500000
+2026-04-22,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,18720,500000
+2026-04-24,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,10771,500000
+2026-04-25,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,14102,500000
+2026-04-26,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,13562,500000
+2026-04-27,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,12875,500000
+2026-04-28,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,22181,500000
+2026-04-29,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,16947,500000
+2026-05-01,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,10538,500000
+2026-05-02,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,18920,500000
+2026-05-03,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,23554,500000
+2026-05-04,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,19361,500000
+2026-05-05,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,9543,500000
+2026-05-06,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,13526,500000
+2026-05-07,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,20263,500000
+2026-05-08,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,12666,500000
+2026-05-09,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,17096,500000
+2026-05-10,CMP-1016,Peak Insurance,San Francisco,Local Digital Display,J. Alvarez,18369,500000
+2026-06-28,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,87475,750000
+2026-06-29,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,16843,750000
+2026-06-30,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,66056,750000
+2026-07-01,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,83189,750000
+2026-07-02,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,61096,750000
+2026-07-03,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,125034,750000
+2026-07-04,CMP-1017,Metro Realty,Dallas,Local Digital Display,J. Alvarez,57048,750000
+2026-04-26,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,16360,250000
+2026-04-27,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,21551,250000
+2026-04-29,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,10155,250000
+2026-04-30,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,20449,250000
+2026-05-01,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,15883,250000
+2026-05-02,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,11955,250000
+2026-05-03,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,17673,250000
+2026-05-04,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,16631,250000
+2026-05-05,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,13465,250000
+2026-05-06,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,16119,250000
+2026-05-07,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,14316,250000
+2026-05-08,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,16292,250000
+2026-05-09,CMP-1018,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,18465,250000
+2026-02-02,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,27876,750000
+2026-02-03,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,61895,750000
+2026-02-04,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,20667,750000
+2026-02-05,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,38836,750000
+2026-02-06,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,46306,750000
+2026-02-07,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,43204,750000
+2026-02-08,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,34084,750000
+2026-02-09,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,38268,750000
+2026-02-10,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,35393,750000
+2026-02-11,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,34420,750000
+2026-02-12,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,48942,750000
+2026-02-13,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,43971,750000
+2026-02-14,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,33375,750000
+2026-02-15,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,49447,750000
+2026-02-16,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,43469,750000
+2026-02-17,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,48572,750000
+2026-02-18,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,46722,750000
+2026-02-19,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,32002,750000
+2026-02-20,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,34715,750000
+2026-02-21,CMP-1019,Summit Law Partners,Atlanta,Peacock Pre-roll,S. Patel,47910,750000
+2026-05-23,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,71996,500000
+2026-05-24,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,74497,500000
+2026-05-25,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,95492,500000
+2026-05-26,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,61670,500000
+2026-05-27,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,82273,500000
+2026-05-29,CMP-1020,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,68716,500000
+2026-03-07,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,16641,100000
+2026-03-08,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,15749,100000
+2026-03-10,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,15710,100000
+2026-03-11,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,17316,100000
+2026-03-12,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,13123,100000
+2026-03-13,CMP-1021,Acme Auto Group,Los Angeles,Peacock Mid-roll,M. Douglas,15281,100000
+2026-01-22,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,6970,100000
+2026-01-24,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,6238,100000
+2026-01-25,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,6604,100000
+2026-01-26,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,7407,100000
+2026-01-27,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,5129,100000
+2026-01-28,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,9821,100000
+2026-01-29,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,4826,100000
+2026-01-30,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,4490,100000
+2026-01-31,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,8315,100000
+2026-02-01,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,7724,100000
+2026-02-03,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,7454,100000
+2026-02-04,CMP-1022,Coastal Bank,Los Angeles,CTV Video,R. Foster,7461,100000
+2026-06-09,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2600,100000
+2026-06-10,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3415,100000
+2026-06-11,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2784,100000
+2026-06-12,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,4169,100000
+2026-06-13,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3228,100000
+2026-06-14,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2660,100000
+2026-06-15,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3082,100000
+2026-06-16,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3697,100000
+2026-06-17,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2879,100000
+2026-06-18,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2662,100000
+2026-06-19,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3556,100000
+2026-06-20,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3557,100000
+2026-06-21,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2927,100000
+2026-06-22,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2957,100000
+2026-06-24,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3546,100000
+2026-06-25,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2138,100000
+2026-06-26,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2172,100000
+2026-06-27,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2749,100000
+2026-06-28,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3173,100000
+2026-06-29,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3612,100000
+2026-06-30,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,4588,100000
+2026-07-01,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,4070,100000
+2026-07-02,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3217,100000
+2026-07-03,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3335,100000
+2026-07-04,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,2511,100000
+2026-07-05,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3336,100000
+2026-07-06,CMP-1023,Metro Realty,Chicago,Peacock Mid-roll,S. Patel,3110,100000
+2026-04-27,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1386,50000
+2026-04-28,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1974,50000
+2026-04-29,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2417,50000
+2026-04-30,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1700,50000
+2026-05-01,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1923,50000
+2026-05-03,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2049,50000
+2026-05-04,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1572,50000
+2026-05-05,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1845,50000
+2026-05-06,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1753,50000
+2026-05-07,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1790,50000
+2026-05-08,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1409,50000
+2026-05-09,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1758,50000
+2026-05-11,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1965,50000
+2026-05-12,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2381,50000
+2026-05-14,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2166,50000
+2026-05-15,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2688,50000
+2026-05-16,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1412,50000
+2026-05-17,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2128,50000
+2026-05-18,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1827,50000
+2026-05-19,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,2704,50000
+2026-05-20,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1394,50000
+2026-05-21,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1380,50000
+2026-05-22,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,1485,50000
+2026-05-24,CMP-1024,BrightSmile Dental,Dallas,OTT Display,M. Douglas,819,50000
+2026-05-26,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,25374,500000
+2026-05-27,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,32495,500000
+2026-05-28,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,33993,500000
+2026-05-29,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,46007,500000
+2026-05-30,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,38759,500000
+2026-05-31,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,26801,500000
+2026-06-01,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,24284,500000
+2026-06-02,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,35169,500000
+2026-06-03,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,20981,500000
+2026-06-04,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,45657,500000
+2026-06-05,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,40552,500000
+2026-06-06,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,27644,500000
+2026-06-08,CMP-1025,Coastal Bank,Washington DC,Linear Spot,S. Patel,17905,500000
+2026-01-13,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2549,50000
+2026-01-14,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,3437,50000
+2026-01-15,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,1578,50000
+2026-01-16,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2231,50000
+2026-01-17,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2628,50000
+2026-01-18,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2655,50000
+2026-01-19,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2329,50000
+2026-01-20,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,3033,50000
+2026-01-21,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,1924,50000
+2026-01-22,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2531,50000
+2026-01-23,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2703,50000
+2026-01-24,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2962,50000
+2026-01-25,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,3091,50000
+2026-01-26,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,1886,50000
+2026-01-27,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,1618,50000
+2026-01-28,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,3463,50000
+2026-01-29,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2842,50000
+2026-01-30,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2133,50000
+2026-01-31,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,3642,50000
+2026-02-01,CMP-1026,Coastal Bank,New York,Peacock Pre-roll,J. Alvarez,2700,50000
+2026-02-07,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3927,100000
+2026-02-08,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,5852,100000
+2026-02-09,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,5557,100000
+2026-02-10,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3622,100000
+2026-02-11,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4800,100000
+2026-02-12,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4485,100000
+2026-02-13,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,5184,100000
+2026-02-14,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2930,100000
+2026-02-15,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4525,100000
+2026-02-16,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4884,100000
+2026-02-17,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2164,100000
+2026-02-18,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2719,100000
+2026-02-19,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,1893,100000
+2026-02-20,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3602,100000
+2026-02-21,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4555,100000
+2026-02-22,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,5313,100000
+2026-02-23,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3934,100000
+2026-02-25,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,5435,100000
+2026-02-26,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2529,100000
+2026-02-27,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2217,100000
+2026-02-28,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3808,100000
+2026-03-01,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4233,100000
+2026-03-02,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3830,100000
+2026-03-03,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,1866,100000
+2026-03-04,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,3776,100000
+2026-03-05,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,2602,100000
+2026-03-06,CMP-1027,Summit Law Partners,Boston,Peacock Pre-roll,S. Patel,4509,100000
+2026-06-22,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4032,150000
+2026-06-23,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4594,150000
+2026-06-25,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,3875,150000
+2026-06-26,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5188,150000
+2026-06-27,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,6530,150000
+2026-06-29,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,3972,150000
+2026-06-30,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5935,150000
+2026-07-01,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4572,150000
+2026-07-02,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4226,150000
+2026-07-03,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5130,150000
+2026-07-04,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,3907,150000
+2026-07-05,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4541,150000
+2026-07-06,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,3692,150000
+2026-07-07,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,7860,150000
+2026-07-10,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5317,150000
+2026-07-11,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4349,150000
+2026-07-12,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5553,150000
+2026-07-13,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,5123,150000
+2026-07-14,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4980,150000
+2026-07-15,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,6080,150000
+2026-07-16,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,6269,150000
+2026-07-17,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4572,150000
+2026-07-18,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4512,150000
+2026-07-19,CMP-1028,Northline Furniture,Philadelphia,Linear Spot,J. Alvarez,4908,150000
+2026-01-20,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,11044,750000
+2026-01-21,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,23855,750000
+2026-01-22,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,25091,750000
+2026-01-23,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,16672,750000
+2026-01-24,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,20342,750000
+2026-01-26,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,19163,750000
+2026-01-27,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,31464,750000
+2026-01-28,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,22755,750000
+2026-01-29,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,17210,750000
+2026-01-30,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,13532,750000
+2026-01-31,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,10639,750000
+2026-02-01,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,18683,750000
+2026-02-02,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,14417,750000
+2026-02-03,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,11457,750000
+2026-02-04,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,14905,750000
+2026-02-05,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,12972,750000
+2026-02-06,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,25278,750000
+2026-02-07,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,21698,750000
+2026-02-08,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,17744,750000
+2026-02-09,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,24357,750000
+2026-02-10,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,18123,750000
+2026-02-11,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,13951,750000
+2026-02-12,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,24549,750000
+2026-02-13,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,20174,750000
+2026-02-14,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,13169,750000
+2026-02-15,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,16933,750000
+2026-02-16,CMP-1029,Vantage Health System,New York,CTV Video,J. Alvarez,13887,750000
+2026-05-22,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3404,100000
+2026-05-23,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,4084,100000
+2026-05-24,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,1797,100000
+2026-05-25,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3153,100000
+2026-05-26,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2314,100000
+2026-05-27,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2427,100000
+2026-05-28,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2355,100000
+2026-05-29,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2167,100000
+2026-05-30,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2798,100000
+2026-05-31,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2190,100000
+2026-06-01,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2951,100000
+2026-06-02,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2729,100000
+2026-06-03,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2599,100000
+2026-06-04,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2137,100000
+2026-06-05,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2365,100000
+2026-06-06,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3286,100000
+2026-06-07,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3110,100000
+2026-06-08,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2088,100000
+2026-06-09,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2833,100000
+2026-06-10,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3283,100000
+2026-06-11,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,1610,100000
+2026-06-12,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3140,100000
+2026-06-14,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2306,100000
+2026-06-15,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,3158,100000
+2026-06-16,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,2237,100000
+2026-06-17,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,1517,100000
+2026-06-18,CMP-1030,Coastal Bank,Philadelphia,Peacock Pre-roll,K. Chen,1639,100000
+2026-04-28,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,7194,50000
+2026-04-29,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,5228,50000
+2026-04-30,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,7834,50000
+2026-05-02,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,3949,50000
+2026-05-03,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,6643,50000
+2026-05-04,CMP-1031,Summit Law Partners,Boston,Peacock Pre-roll,J. Alvarez,4710,50000
+2026-02-16,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,7785,250000
+2026-02-17,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6039,250000
+2026-02-18,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6954,250000
+2026-02-19,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,9630,250000
+2026-02-20,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6584,250000
+2026-02-21,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,9302,250000
+2026-02-22,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,5521,250000
+2026-02-23,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8713,250000
+2026-02-24,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,10467,250000
+2026-02-25,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,2939,250000
+2026-02-26,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6161,250000
+2026-02-27,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8804,250000
+2026-03-01,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,7303,250000
+2026-03-02,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8408,250000
+2026-03-03,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6532,250000
+2026-03-04,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,7861,250000
+2026-03-05,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,7394,250000
+2026-03-06,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,9940,250000
+2026-03-07,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8183,250000
+2026-03-08,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8343,250000
+2026-03-09,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6902,250000
+2026-03-10,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6756,250000
+2026-03-11,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6862,250000
+2026-03-12,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8453,250000
+2026-03-13,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,6884,250000
+2026-03-14,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,8251,250000
+2026-03-15,CMP-1032,Metro Realty,New York,Linear Spot,K. Chen,11686,250000
+2026-01-05,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5139,150000
+2026-01-06,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,7276,150000
+2026-01-07,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5024,150000
+2026-01-08,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,2744,150000
+2026-01-09,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,4185,150000
+2026-01-10,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,2978,150000
+2026-01-11,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5103,150000
+2026-01-12,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5621,150000
+2026-01-13,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,7940,150000
+2026-01-14,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6053,150000
+2026-01-15,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5289,150000
+2026-01-16,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6756,150000
+2026-01-17,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,2502,150000
+2026-01-18,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5925,150000
+2026-01-20,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6674,150000
+2026-01-21,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,3527,150000
+2026-01-22,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,7195,150000
+2026-01-23,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6069,150000
+2026-01-24,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5014,150000
+2026-01-25,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6480,150000
+2026-01-26,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,8772,150000
+2026-01-27,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5850,150000
+2026-01-28,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,5942,150000
+2026-01-29,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,4953,150000
+2026-01-30,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,4406,150000
+2026-01-31,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,6757,150000
+2026-02-01,CMP-1033,Northline Furniture,New York,Peacock Pre-roll,R. Foster,4398,150000
+2026-06-23,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2983,100000
+2026-06-24,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3793,100000
+2026-06-25,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3670,100000
+2026-06-26,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4266,100000
+2026-06-27,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2955,100000
+2026-06-28,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3159,100000
+2026-06-29,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2558,100000
+2026-06-30,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3011,100000
+2026-07-01,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3707,100000
+2026-07-03,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4028,100000
+2026-07-04,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2606,100000
+2026-07-05,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4124,100000
+2026-07-06,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4535,100000
+2026-07-07,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3737,100000
+2026-07-08,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4977,100000
+2026-07-09,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2732,100000
+2026-07-10,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2333,100000
+2026-07-11,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,1881,100000
+2026-07-12,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4654,100000
+2026-07-13,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3942,100000
+2026-07-14,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3340,100000
+2026-07-15,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3624,100000
+2026-07-16,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,2434,100000
+2026-07-17,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,5459,100000
+2026-07-18,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3497,100000
+2026-07-19,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,3480,100000
+2026-07-20,CMP-1034,Vantage Health System,Dallas,OTT Display,S. Patel,4002,100000
+2026-01-20,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2508,50000
+2026-01-21,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,1906,50000
+2026-01-22,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2655,50000
+2026-01-23,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,3493,50000
+2026-01-24,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,3174,50000
+2026-01-25,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,3321,50000
+2026-01-26,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2071,50000
+2026-01-28,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,1787,50000
+2026-01-29,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2300,50000
+2026-01-30,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2408,50000
+2026-02-01,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,3025,50000
+2026-02-02,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,1370,50000
+2026-02-04,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,3283,50000
+2026-02-07,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2281,50000
+2026-02-08,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,2122,50000
+2026-02-09,CMP-1035,BrightSmile Dental,New York,Local Digital Display,S. Patel,1774,50000
+2026-01-19,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,12771,100000
+2026-01-20,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,10785,100000
+2026-01-21,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,7175,100000
+2026-01-22,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,7162,100000
+2026-01-23,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,9702,100000
+2026-01-24,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,15011,100000
+2026-01-25,CMP-1036,Vantage Health System,Atlanta,Local Digital Display,K. Chen,9904,100000
+2026-05-30,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,25462,500000
+2026-05-31,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,25279,500000
+2026-06-01,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,8838,500000
+2026-06-02,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,26761,500000
+2026-06-03,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,25563,500000
+2026-06-05,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,31851,500000
+2026-06-07,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,39669,500000
+2026-06-08,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,34770,500000
+2026-06-09,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,25305,500000
+2026-06-10,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,19624,500000
+2026-06-11,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,44582,500000
+2026-06-12,CMP-1037,Coastal Bank,Philadelphia,OTT Display,J. Alvarez,27531,500000
+2026-05-29,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6685,150000
+2026-05-30,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,7059,150000
+2026-05-31,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6483,150000
+2026-06-01,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,5761,150000
+2026-06-02,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,5806,150000
+2026-06-03,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6671,150000
+2026-06-04,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,5812,150000
+2026-06-05,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,5527,150000
+2026-06-07,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6905,150000
+2026-06-09,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6297,150000
+2026-06-10,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,9255,150000
+2026-06-11,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,2268,150000
+2026-06-12,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,8561,150000
+2026-06-14,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,8821,150000
+2026-06-16,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,3239,150000
+2026-06-17,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6149,150000
+2026-06-18,CMP-1038,Evergreen Energy Co,Los Angeles,OTT Display,S. Patel,6101,150000
+2026-02-07,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,7394,250000
+2026-02-08,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,6631,250000
+2026-02-09,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,13201,250000
+2026-02-10,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,11327,250000
+2026-02-12,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,12097,250000
+2026-02-13,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10835,250000
+2026-02-14,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,6588,250000
+2026-02-15,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,7976,250000
+2026-02-16,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10302,250000
+2026-02-17,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,6375,250000
+2026-02-18,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10816,250000
+2026-02-19,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,8628,250000
+2026-02-20,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,8319,250000
+2026-02-21,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10811,250000
+2026-02-22,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10199,250000
+2026-02-23,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,8351,250000
+2026-02-24,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,11840,250000
+2026-02-25,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,6698,250000
+2026-02-26,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10593,250000
+2026-02-27,CMP-1039,UrbanEats Delivery,Philadelphia,Peacock Mid-roll,R. Foster,10540,250000
+2026-05-29,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,6974,50000
+2026-05-31,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,4431,50000
+2026-06-01,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,7938,50000
+2026-06-02,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,6150,50000
+2026-06-03,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,5606,50000
+2026-06-04,CMP-1040,Coastal Bank,New York,OTT Display,S. Patel,8140,50000
+2026-01-22,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,5938,150000
+2026-01-23,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,5598,150000
+2026-01-25,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,10554,150000
+2026-01-26,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,6231,150000
+2026-01-28,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,13186,150000
+2026-01-29,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,4395,150000
+2026-01-30,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,13053,150000
+2026-01-31,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,9649,150000
+2026-02-01,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,8944,150000
+2026-02-02,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,7917,150000
+2026-02-03,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,10080,150000
+2026-02-04,CMP-1041,Metro Realty,Dallas,Peacock Pre-roll,M. Douglas,9079,150000
+2026-06-11,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,118180,750000
+2026-06-12,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,119216,750000
+2026-06-13,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,104454,750000
+2026-06-14,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,113263,750000
+2026-06-15,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,123741,750000
+2026-06-16,CMP-1042,Vantage Health System,Atlanta,CTV Video,M. Douglas,65775,750000
+2026-02-03,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,98873,750000
+2026-02-04,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,86942,750000
+2026-02-05,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,79545,750000
+2026-02-06,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,83764,750000
+2026-02-08,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,90625,750000
+2026-02-09,CMP-1043,Summit Law Partners,Los Angeles,Peacock Pre-roll,M. Douglas,72129,750000
+2026-07-07,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4228,100000
+2026-07-08,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,3045,100000
+2026-07-09,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4442,100000
+2026-07-10,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,2315,100000
+2026-07-11,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,5068,100000
+2026-07-12,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4507,100000
+2026-07-13,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4289,100000
+2026-07-14,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,5021,100000
+2026-07-15,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,5710,100000
+2026-07-17,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,5053,100000
+2026-07-18,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,2176,100000
+2026-07-19,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,2741,100000
+2026-07-20,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,3401,100000
+2026-07-21,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4057,100000
+2026-07-22,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4553,100000
+2026-07-23,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,3299,100000
+2026-07-24,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,4219,100000
+2026-07-25,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,3270,100000
+2026-07-26,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,3415,100000
+2026-07-27,CMP-1044,Summit Law Partners,Dallas,Local Digital Display,K. Chen,2613,100000
+2026-01-18,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,58821,750000
+2026-01-19,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,67168,750000
+2026-01-20,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,112246,750000
+2026-01-22,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,67757,750000
+2026-01-23,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,147312,750000
+2026-01-24,CMP-1045,Summit Law Partners,Atlanta,OTT Display,M. Douglas,99801,750000
+2026-07-21,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,40484,750000
+2026-07-22,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,60569,750000
+2026-07-23,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,44127,750000
+2026-07-24,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,53117,750000
+2026-07-25,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,84535,750000
+2026-07-26,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,50307,750000
+2026-07-27,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,66355,750000
+2026-07-28,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,42484,750000
+2026-07-29,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,51094,750000
+2026-07-30,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,74364,750000
+2026-07-31,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,43466,750000
+2026-08-01,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,74901,750000
+2026-08-02,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,60665,750000
+2026-08-03,CMP-1046,Summit Law Partners,New York,Linear Spot,M. Douglas,44297,750000
+2026-05-28,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,9020,50000
+2026-05-29,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,8384,50000
+2026-05-30,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,4407,50000
+2026-05-31,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,5937,50000
+2026-06-01,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,6807,50000
+2026-06-02,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,7121,50000
+2026-06-03,CMP-1047,Peak Insurance,Boston,Local Digital Display,R. Foster,8382,50000
+2026-06-03,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,11435,250000
+2026-06-04,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,18798,250000
+2026-06-05,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,19786,250000
+2026-06-06,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,19568,250000
+2026-06-07,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,21804,250000
+2026-06-08,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,20745,250000
+2026-06-09,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,19137,250000
+2026-06-10,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,16865,250000
+2026-06-12,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,10038,250000
+2026-06-13,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,19010,250000
+2026-06-14,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,18057,250000
+2026-06-15,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,18332,250000
+2026-06-16,CMP-1048,Peak Insurance,Atlanta,Linear Spot,M. Douglas,11687,250000
+2026-02-27,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,54836,750000
+2026-02-28,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,42978,750000
+2026-03-01,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,50803,750000
+2026-03-02,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,43714,750000
+2026-03-03,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,43730,750000
+2026-03-05,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,53589,750000
+2026-03-06,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,37807,750000
+2026-03-07,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,44450,750000
+2026-03-08,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,38390,750000
+2026-03-09,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,38692,750000
+2026-03-10,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,40052,750000
+2026-03-11,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,45818,750000
+2026-03-12,CMP-1049,Summit Law Partners,Washington DC,Linear Spot,M. Douglas,38212,750000
+2026-03-06,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,6048,100000
+2026-03-07,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,7426,100000
+2026-03-08,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,6934,100000
+2026-03-09,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,10608,100000
+2026-03-10,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,8173,100000
+2026-03-11,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,9800,100000
+2026-03-12,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,4897,100000
+2026-03-13,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,8310,100000
+2026-03-14,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,9523,100000
+2026-03-15,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,7950,100000
+2026-03-16,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,9865,100000
+2026-03-17,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,6783,100000
+2026-03-18,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,10535,100000
+2026-03-19,CMP-1050,Metro Realty,San Francisco,Local Digital Display,K. Chen,12268,100000
+2026-07-24,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,21337,750000
+2026-07-25,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,32737,750000
+2026-07-26,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,33494,750000
+2026-07-27,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,20873,750000
+2026-07-28,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,21489,750000
+2026-07-29,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,22320,750000
+2026-07-30,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,15941,750000
+2026-07-31,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,18497,750000
+2026-08-01,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,17984,750000
+2026-08-02,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,19403,750000
+2026-08-03,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,23804,750000
+2026-08-04,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,25418,750000
+2026-08-05,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,33320,750000
+2026-08-06,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,18019,750000
+2026-08-07,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,29921,750000
+2026-08-08,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,22727,750000
+2026-08-09,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,23715,750000
+2026-08-10,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,28063,750000
+2026-08-11,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,17272,750000
+2026-08-12,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,26307,750000
+2026-08-13,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,25011,750000
+2026-08-14,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,26968,750000
+2026-08-15,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,25748,750000
+2026-08-16,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,38751,750000
+2026-08-17,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,20183,750000
+2026-08-18,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,20824,750000
+2026-08-19,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,20271,750000
+2026-08-20,CMP-1051,Acme Auto Group,Chicago,CTV Video,M. Douglas,20677,750000
+2026-04-12,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,40007,250000
+2026-04-13,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,41791,250000
+2026-04-14,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,26439,250000
+2026-04-15,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,24422,250000
+2026-04-16,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,34474,250000
+2026-04-17,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,26582,250000
+2026-04-18,CMP-1052,BrightSmile Dental,Dallas,Peacock Pre-roll,J. Alvarez,35719,250000
+2026-03-03,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,64170,750000
+2026-03-04,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,143296,750000
+2026-03-05,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,149712,750000
+2026-03-06,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,87494,750000
+2026-03-08,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,93308,750000
+2026-03-09,CMP-1053,Vantage Health System,Washington DC,Peacock Mid-roll,K. Chen,110707,750000
+2026-04-04,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,30575,750000
+2026-04-05,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,39447,750000
+2026-04-06,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,25092,750000
+2026-04-07,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,21014,750000
+2026-04-08,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,17200,750000
+2026-04-09,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,21456,750000
+2026-04-10,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,26036,750000
+2026-04-11,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,38032,750000
+2026-04-12,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,22856,750000
+2026-04-13,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,27722,750000
+2026-04-14,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,26145,750000
+2026-04-15,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,34053,750000
+2026-04-17,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,42838,750000
+2026-04-19,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,22769,750000
+2026-04-20,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,23041,750000
+2026-04-21,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,33106,750000
+2026-04-22,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,30729,750000
+2026-04-23,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,38374,750000
+2026-04-24,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,30086,750000
+2026-04-25,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,23895,750000
+2026-04-26,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,30130,750000
+2026-04-28,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,33530,750000
+2026-04-29,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,31638,750000
+2026-04-30,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,29583,750000
+2026-05-01,CMP-1054,UrbanEats Delivery,Dallas,Linear Spot,M. Douglas,33254,750000
+2026-03-12,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,51914,500000
+2026-03-14,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,44839,500000
+2026-03-15,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,36970,500000
+2026-03-16,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,39997,500000
+2026-03-17,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,50220,500000
+2026-03-18,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,30702,500000
+2026-03-19,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,42138,500000
+2026-03-20,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,34788,500000
+2026-03-21,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,38859,500000
+2026-03-23,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,50914,500000
+2026-03-24,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,40425,500000
+2026-03-25,CMP-1055,Metro Realty,Washington DC,Linear Spot,J. Alvarez,39030,500000
+2026-04-26,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,32919,750000
+2026-04-27,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,32220,750000
+2026-04-28,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,42747,750000
+2026-04-29,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,25608,750000
+2026-04-30,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,29263,750000
+2026-05-01,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,29473,750000
+2026-05-02,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,38684,750000
+2026-05-03,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,27082,750000
+2026-05-04,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,29678,750000
+2026-05-05,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,31959,750000
+2026-05-06,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,29037,750000
+2026-05-07,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,24647,750000
+2026-05-08,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,29089,750000
+2026-05-09,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,35190,750000
+2026-05-10,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,20623,750000
+2026-05-11,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,28665,750000
+2026-05-12,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,22887,750000
+2026-05-13,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,36032,750000
+2026-05-14,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,17178,750000
+2026-05-15,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,23866,750000
+2026-05-16,CMP-1056,Summit Law Partners,New York,Linear Spot,S. Patel,30359,750000
+2026-04-14,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,11885,150000
+2026-04-15,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,10406,150000
+2026-04-16,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,17767,150000
+2026-04-17,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,7709,150000
+2026-04-18,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,5441,150000
+2026-04-19,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,13413,150000
+2026-04-20,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,10567,150000
+2026-04-21,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,8999,150000
+2026-04-22,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,14224,150000
+2026-04-23,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,12820,150000
+2026-04-24,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,10380,150000
+2026-04-25,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,8216,150000
+2026-04-26,CMP-1057,Northline Furniture,Miami,Local Digital Display,J. Alvarez,14719,150000
+2026-06-29,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,10636,150000
+2026-06-30,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,15942,150000
+2026-07-01,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,7989,150000
+2026-07-02,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,6747,150000
+2026-07-03,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,9020,150000
+2026-07-04,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,10783,150000
+2026-07-05,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,11570,150000
+2026-07-06,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,10249,150000
+2026-07-07,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,11867,150000
+2026-07-08,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,7494,150000
+2026-07-09,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,14844,150000
+2026-07-10,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,10683,150000
+2026-07-11,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,13954,150000
+2026-07-12,CMP-1058,Northline Furniture,New York,Local Digital Display,S. Patel,11841,150000
+2026-07-08,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,27059,500000
+2026-07-10,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,26337,500000
+2026-07-11,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,27491,500000
+2026-07-12,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,31556,500000
+2026-07-13,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,24849,500000
+2026-07-15,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,27884,500000
+2026-07-17,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,23154,500000
+2026-07-18,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,32213,500000
+2026-07-20,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,19680,500000
+2026-07-21,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,34350,500000
+2026-07-22,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,23448,500000
+2026-07-23,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,15213,500000
+2026-07-24,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,24444,500000
+2026-07-25,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,19653,500000
+2026-07-26,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,28663,500000
+2026-07-28,CMP-1059,UrbanEats Delivery,Miami,Peacock Mid-roll,J. Alvarez,19821,500000
+2026-05-26,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,3340,100000
+2026-05-27,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,5615,100000
+2026-05-28,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,2494,100000
+2026-05-29,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,3824,100000
+2026-05-30,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,7535,100000
+2026-05-31,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,7575,100000
+2026-06-01,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,7005,100000
+2026-06-02,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,4801,100000
+2026-06-03,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,6256,100000
+2026-06-05,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,6326,100000
+2026-06-06,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,4498,100000
+2026-06-07,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,8711,100000
+2026-06-08,CMP-1060,Northline Furniture,Washington DC,OTT Display,M. Douglas,7720,100000
+2026-03-23,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,16421,500000
+2026-03-24,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,17162,500000
+2026-03-25,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,7985,500000
+2026-03-26,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,15304,500000
+2026-03-27,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,13531,500000
+2026-03-28,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,12227,500000
+2026-03-29,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,15165,500000
+2026-03-30,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,23643,500000
+2026-03-31,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,18925,500000
+2026-04-01,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,13982,500000
+2026-04-02,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,18647,500000
+2026-04-03,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,22018,500000
+2026-04-04,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,20082,500000
+2026-04-05,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,16555,500000
+2026-04-06,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,13673,500000
+2026-04-07,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,19159,500000
+2026-04-08,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,17916,500000
+2026-04-09,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,19962,500000
+2026-04-10,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,18902,500000
+2026-04-11,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,20592,500000
+2026-04-12,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,14129,500000
+2026-04-13,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,21684,500000
+2026-04-14,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,17118,500000
+2026-04-15,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,24775,500000
+2026-04-16,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,13501,500000
+2026-04-17,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,23391,500000
+2026-04-18,CMP-1061,Northline Furniture,Chicago,Local Digital Display,S. Patel,17119,500000
+2026-06-02,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,9018,250000
+2026-06-03,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,9438,250000
+2026-06-04,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11347,250000
+2026-06-05,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11600,250000
+2026-06-06,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,8788,250000
+2026-06-08,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,10197,250000
+2026-06-09,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,15754,250000
+2026-06-10,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,14690,250000
+2026-06-11,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11379,250000
+2026-06-12,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,10357,250000
+2026-06-13,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,10567,250000
+2026-06-14,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11833,250000
+2026-06-15,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,7636,250000
+2026-06-16,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,9599,250000
+2026-06-17,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,5980,250000
+2026-06-18,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11283,250000
+2026-06-19,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,11919,250000
+2026-06-20,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,9020,250000
+2026-06-21,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,14297,250000
+2026-06-22,CMP-1062,Summit Law Partners,Dallas,Peacock Pre-roll,R. Foster,7115,250000
+2026-06-22,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,17296,150000
+2026-06-23,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,20664,150000
+2026-06-24,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,23271,150000
+2026-06-25,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,14498,150000
+2026-06-26,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,20793,150000
+2026-06-27,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,16219,150000
+2026-06-28,CMP-1063,BrightSmile Dental,Atlanta,OTT Display,K. Chen,15670,150000
+2026-06-26,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5793,100000
+2026-06-27,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,3018,100000
+2026-06-28,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,6819,100000
+2026-06-29,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,6699,100000
+2026-07-01,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4202,100000
+2026-07-02,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5474,100000
+2026-07-03,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5596,100000
+2026-07-04,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5305,100000
+2026-07-05,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4295,100000
+2026-07-06,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4144,100000
+2026-07-07,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4949,100000
+2026-07-08,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,6441,100000
+2026-07-09,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5658,100000
+2026-07-10,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4519,100000
+2026-07-11,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,5942,100000
+2026-07-12,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,1433,100000
+2026-07-13,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,6411,100000
+2026-07-14,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,2814,100000
+2026-07-15,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,4529,100000
+2026-07-16,CMP-1064,Evergreen Energy Co,Washington DC,Linear Spot,K. Chen,3586,100000
+2026-05-06,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,36155,250000
+2026-05-07,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,24746,250000
+2026-05-08,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,30450,250000
+2026-05-10,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,27694,250000
+2026-05-11,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,31364,250000
+2026-05-12,CMP-1065,Peak Insurance,New York,Linear Spot,K. Chen,28560,250000
+2026-05-11,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3506,100000
+2026-05-12,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2460,100000
+2026-05-13,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,1714,100000
+2026-05-14,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2506,100000
+2026-05-15,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3860,100000
+2026-05-17,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3403,100000
+2026-05-18,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2562,100000
+2026-05-19,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2562,100000
+2026-05-20,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2581,100000
+2026-05-21,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,4264,100000
+2026-05-22,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3075,100000
+2026-05-23,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3109,100000
+2026-05-24,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3530,100000
+2026-05-25,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2974,100000
+2026-05-26,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2625,100000
+2026-05-27,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2669,100000
+2026-05-29,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2757,100000
+2026-05-30,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2781,100000
+2026-05-31,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3317,100000
+2026-06-01,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2843,100000
+2026-06-02,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3321,100000
+2026-06-03,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2750,100000
+2026-06-04,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,2862,100000
+2026-06-05,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,1404,100000
+2026-06-06,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3450,100000
+2026-06-07,CMP-1066,Evergreen Energy Co,Philadelphia,CTV Video,R. Foster,3050,100000
+2026-02-19,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,522,50000
+2026-02-20,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2880,50000
+2026-02-21,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1826,50000
+2026-02-22,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2416,50000
+2026-02-23,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1400,50000
+2026-02-24,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2182,50000
+2026-02-25,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1394,50000
+2026-02-26,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1597,50000
+2026-02-27,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2797,50000
+2026-02-28,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1802,50000
+2026-03-01,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1995,50000
+2026-03-04,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2304,50000
+2026-03-05,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2126,50000
+2026-03-06,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1963,50000
+2026-03-07,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2065,50000
+2026-03-08,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,3029,50000
+2026-03-09,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1865,50000
+2026-03-10,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1987,50000
+2026-03-11,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2389,50000
+2026-03-13,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2415,50000
+2026-03-14,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2454,50000
+2026-03-15,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2194,50000
+2026-03-16,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1351,50000
+2026-03-17,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,2665,50000
+2026-03-18,CMP-1067,Acme Auto Group,Los Angeles,OTT Display,K. Chen,1350,50000
+2026-06-25,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,9431,250000
+2026-06-26,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,11436,250000
+2026-06-27,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,12578,250000
+2026-06-28,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,12556,250000
+2026-06-29,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,12848,250000
+2026-06-30,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,16311,250000
+2026-07-01,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,12940,250000
+2026-07-02,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,10913,250000
+2026-07-03,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,14424,250000
+2026-07-04,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,15079,250000
+2026-07-05,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,8055,250000
+2026-07-06,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,13358,250000
+2026-07-07,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,13660,250000
+2026-07-08,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,10758,250000
+2026-07-09,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,15620,250000
+2026-07-10,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,11186,250000
+2026-07-12,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,11987,250000
+2026-07-13,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,11119,250000
+2026-07-14,CMP-1068,Coastal Bank,Boston,Peacock Pre-roll,R. Foster,11668,250000
+2026-02-14,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,4619,250000
+2026-02-15,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,10095,250000
+2026-02-16,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,5689,250000
+2026-02-17,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,5429,250000
+2026-02-18,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,3332,250000
+2026-02-19,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,6065,250000
+2026-02-20,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,4830,250000
+2026-02-21,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,10181,250000
+2026-02-23,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,9040,250000
+2026-02-24,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,5976,250000
+2026-02-25,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,11282,250000
+2026-02-26,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,8989,250000
+2026-02-27,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,6632,250000
+2026-02-28,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,2707,250000
+2026-03-01,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,11352,250000
+2026-03-03,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,4710,250000
+2026-03-04,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,4249,250000
+2026-03-05,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,9063,250000
+2026-03-06,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,11620,250000
+2026-03-07,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,9716,250000
+2026-03-08,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,8235,250000
+2026-03-09,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,8291,250000
+2026-03-10,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,8758,250000
+2026-03-11,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,8587,250000
+2026-03-12,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,7725,250000
+2026-03-13,CMP-1069,Metro Realty,San Francisco,Local Digital Display,R. Foster,7406,250000
+2026-06-14,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,8107,150000
+2026-06-15,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,9289,150000
+2026-06-17,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,5762,150000
+2026-06-18,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,9745,150000
+2026-06-19,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,7521,150000
+2026-06-20,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,7234,150000
+2026-06-21,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,10440,150000
+2026-06-22,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,13467,150000
+2026-06-23,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,12284,150000
+2026-06-24,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,6068,150000
+2026-06-25,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,7519,150000
+2026-06-26,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,12340,150000
+2026-06-27,CMP-1070,BrightSmile Dental,Dallas,Local Digital Display,R. Foster,7536,150000
+2026-03-27,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,14837,100000
+2026-03-28,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,9885,100000
+2026-03-29,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,13387,100000
+2026-03-30,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,8693,100000
+2026-03-31,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,11082,100000
+2026-04-01,CMP-1071,Summit Law Partners,Philadelphia,Peacock Mid-roll,M. Douglas,14086,100000
+2026-01-22,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,7422,250000
+2026-01-23,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6653,250000
+2026-01-24,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,7609,250000
+2026-01-25,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,7060,250000
+2026-01-26,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,8966,250000
+2026-01-27,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6895,250000
+2026-01-28,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5968,250000
+2026-01-29,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6890,250000
+2026-01-30,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,7594,250000
+2026-02-02,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6767,250000
+2026-02-03,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6753,250000
+2026-02-04,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5512,250000
+2026-02-05,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5578,250000
+2026-02-06,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,4341,250000
+2026-02-07,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,9610,250000
+2026-02-08,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,4606,250000
+2026-02-09,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5527,250000
+2026-02-10,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5485,250000
+2026-02-11,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,8181,250000
+2026-02-12,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,6193,250000
+2026-02-13,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,8771,250000
+2026-02-14,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5560,250000
+2026-02-15,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,7152,250000
+2026-02-16,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,5289,250000
+2026-02-17,CMP-1072,Northline Furniture,Chicago,CTV Video,K. Chen,10271,250000
+2026-04-22,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,15343,500000
+2026-04-23,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,16497,500000
+2026-04-24,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,15714,500000
+2026-04-25,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,13581,500000
+2026-04-26,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,13778,500000
+2026-04-27,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,14396,500000
+2026-04-28,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,13717,500000
+2026-04-29,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,17672,500000
+2026-04-30,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,22110,500000
+2026-05-01,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,12256,500000
+2026-05-02,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,9364,500000
+2026-05-03,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,13926,500000
+2026-05-04,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,23425,500000
+2026-05-05,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,11379,500000
+2026-05-06,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,20076,500000
+2026-05-07,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,20213,500000
+2026-05-08,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,12269,500000
+2026-05-09,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,16266,500000
+2026-05-10,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,20038,500000
+2026-05-11,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,12891,500000
+2026-05-12,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,13516,500000
+2026-05-13,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,12169,500000
+2026-05-14,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,10628,500000
+2026-05-15,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,11929,500000
+2026-05-16,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,9883,500000
+2026-05-17,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,14362,500000
+2026-05-18,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,11499,500000
+2026-05-19,CMP-1073,Vantage Health System,San Francisco,Linear Spot,K. Chen,15073,500000
+2026-01-06,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5825,150000
+2026-01-08,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,6501,150000
+2026-01-09,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,2698,150000
+2026-01-10,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5883,150000
+2026-01-11,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,7032,150000
+2026-01-12,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,3753,150000
+2026-01-13,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,7630,150000
+2026-01-14,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5944,150000
+2026-01-15,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,4432,150000
+2026-01-16,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5305,150000
+2026-01-17,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,6131,150000
+2026-01-18,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5482,150000
+2026-01-19,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,6105,150000
+2026-01-20,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,4142,150000
+2026-01-21,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5608,150000
+2026-01-22,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,3478,150000
+2026-01-23,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,5231,150000
+2026-01-24,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,4164,150000
+2026-01-25,CMP-1074,Acme Auto Group,Miami,OTT Display,R. Foster,4391,150000
+2026-06-08,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,24736,250000
+2026-06-09,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,22394,250000
+2026-06-10,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,14127,250000
+2026-06-12,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,17897,250000
+2026-06-13,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,25328,250000
+2026-06-14,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,20123,250000
+2026-06-15,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,30703,250000
+2026-06-17,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,21345,250000
+2026-06-18,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,20367,250000
+2026-06-19,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,17932,250000
+2026-06-20,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,20083,250000
+2026-06-21,CMP-1075,Northline Furniture,Atlanta,CTV Video,S. Patel,18693,250000
+2026-04-01,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,34021,750000
+2026-04-03,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,22059,750000
+2026-04-04,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,18317,750000
+2026-04-05,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,14851,750000
+2026-04-06,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,30941,750000
+2026-04-07,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,19881,750000
+2026-04-08,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,12677,750000
+2026-04-09,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,30121,750000
+2026-04-10,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,44565,750000
+2026-04-12,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,27412,750000
+2026-04-13,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,33209,750000
+2026-04-14,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,28016,750000
+2026-04-15,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,26775,750000
+2026-04-16,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,33762,750000
+2026-04-17,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,25462,750000
+2026-04-18,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,29289,750000
+2026-04-19,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,29662,750000
+2026-04-20,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,22869,750000
+2026-04-21,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,34263,750000
+2026-04-22,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,26253,750000
+2026-04-23,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,22267,750000
+2026-04-24,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,31137,750000
+2026-04-25,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,21287,750000
+2026-04-26,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,27648,750000
+2026-04-27,CMP-1076,Northline Furniture,Boston,Linear Spot,R. Foster,27392,750000
+2026-01-11,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,21380,500000
+2026-01-12,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,18993,500000
+2026-01-13,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,23020,500000
+2026-01-14,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,25755,500000
+2026-01-15,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,21777,500000
+2026-01-16,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,19162,500000
+2026-01-18,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,12844,500000
+2026-01-19,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,14023,500000
+2026-01-20,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,17654,500000
+2026-01-21,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,16200,500000
+2026-01-22,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,18219,500000
+2026-01-23,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,19383,500000
+2026-01-24,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,21643,500000
+2026-01-25,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,18775,500000
+2026-01-26,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,21437,500000
+2026-01-27,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,19420,500000
+2026-01-28,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,9673,500000
+2026-01-29,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,14624,500000
+2026-01-30,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,18424,500000
+2026-01-31,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,13332,500000
+2026-02-01,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,21979,500000
+2026-02-02,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,26426,500000
+2026-02-03,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,24936,500000
+2026-02-04,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,18092,500000
+2026-02-05,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,26235,500000
+2026-02-06,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,19822,500000
+2026-02-07,CMP-1077,Vantage Health System,Chicago,Local Digital Display,S. Patel,17501,500000
+2026-02-08,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2860,100000
+2026-02-09,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2793,100000
+2026-02-10,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3226,100000
+2026-02-11,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3218,100000
+2026-02-12,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3096,100000
+2026-02-13,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3432,100000
+2026-02-14,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,4015,100000
+2026-02-15,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3828,100000
+2026-02-16,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,1945,100000
+2026-02-17,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,1118,100000
+2026-02-18,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3817,100000
+2026-02-19,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2036,100000
+2026-02-20,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2920,100000
+2026-02-21,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2189,100000
+2026-02-22,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,1700,100000
+2026-02-23,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3513,100000
+2026-02-24,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3681,100000
+2026-02-25,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2648,100000
+2026-02-26,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,1089,100000
+2026-02-27,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2671,100000
+2026-02-28,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3397,100000
+2026-03-01,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,1950,100000
+2026-03-02,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3236,100000
+2026-03-03,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3082,100000
+2026-03-04,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3542,100000
+2026-03-05,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,3186,100000
+2026-03-06,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,2341,100000
+2026-03-07,CMP-1078,Acme Auto Group,Los Angeles,CTV Video,R. Foster,4019,100000
+2026-03-29,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,10889,250000
+2026-03-30,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,8405,250000
+2026-03-31,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,9748,250000
+2026-04-01,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,8538,250000
+2026-04-02,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,10489,250000
+2026-04-03,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,15655,250000
+2026-04-04,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,7203,250000
+2026-04-05,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,6541,250000
+2026-04-07,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,14996,250000
+2026-04-08,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,10390,250000
+2026-04-09,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,9130,250000
+2026-04-10,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,13814,250000
+2026-04-11,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,9304,250000
+2026-04-12,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,15969,250000
+2026-04-13,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,12822,250000
+2026-04-14,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,9626,250000
+2026-04-15,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,16877,250000
+2026-04-16,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,9303,250000
+2026-04-18,CMP-1079,Northline Furniture,Washington DC,Peacock Pre-roll,R. Foster,12998,250000
+2026-01-09,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,27718,150000
+2026-01-10,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,29076,150000
+2026-01-11,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,21079,150000
+2026-01-12,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,16973,150000
+2026-01-13,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,23317,150000
+2026-01-14,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,17369,150000
+2026-01-15,CMP-1080,Northline Furniture,Dallas,Linear Spot,R. Foster,31438,150000
+2026-02-25,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,62074,500000
+2026-02-26,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,71467,500000
+2026-02-27,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,45306,500000
+2026-02-28,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,51719,500000
+2026-03-01,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,88814,500000
+2026-03-02,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,57094,500000
+2026-03-03,CMP-1081,Coastal Bank,New York,Linear Spot,K. Chen,50433,500000
+2026-05-29,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,23252,250000
+2026-05-30,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,21159,250000
+2026-05-31,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,22401,250000
+2026-06-01,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,14542,250000
+2026-06-02,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,11560,250000
+2026-06-03,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,24667,250000
+2026-06-04,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,16488,250000
+2026-06-05,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,16810,250000
+2026-06-06,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,23891,250000
+2026-06-07,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,20429,250000
+2026-06-08,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,19979,250000
+2026-06-09,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,27643,250000
+2026-06-10,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,15050,250000
+2026-06-11,CMP-1082,Peak Insurance,Boston,CTV Video,J. Alvarez,22096,250000
+2026-07-15,CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,14434,100000
+2026-07-16,CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,18694,100000
+2026-07-19,CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,15243,100000
+2026-07-20,CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,15346,100000
+2026-07-21,CMP-1083,UrbanEats Delivery,Chicago,Local Digital Display,S. Patel,17153,100000
+2026-06-01,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,6323,250000
+2026-06-02,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,5911,250000
+2026-06-03,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,4068,250000
+2026-06-04,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,12115,250000
+2026-06-05,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,5794,250000
+2026-06-06,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,7559,250000
+2026-06-07,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,7448,250000
+2026-06-09,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,8616,250000
+2026-06-10,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,9633,250000
+2026-06-11,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,9723,250000
+2026-06-12,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,6835,250000
+2026-06-13,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,7667,250000
+2026-06-14,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,8567,250000
+2026-06-15,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,7504,250000
+2026-06-16,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,11217,250000
+2026-06-17,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,8984,250000
+2026-06-18,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,9471,250000
+2026-06-19,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,9327,250000
+2026-06-21,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,10349,250000
+2026-06-22,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,8363,250000
+2026-06-23,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,5407,250000
+2026-06-24,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,8801,250000
+2026-06-26,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,6698,250000
+2026-06-28,CMP-1084,Coastal Bank,Miami,Linear Spot,M. Douglas,6944,250000
+2026-01-31,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,47255,750000
+2026-02-01,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,36276,750000
+2026-02-02,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,38870,750000
+2026-02-03,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,51440,750000
+2026-02-04,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,38256,750000
+2026-02-05,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,59554,750000
+2026-02-06,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,41185,750000
+2026-02-07,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,20200,750000
+2026-02-08,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,42880,750000
+2026-02-09,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,39522,750000
+2026-02-10,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,47719,750000
+2026-02-11,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,42157,750000
+2026-02-12,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,34835,750000
+2026-02-13,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,25039,750000
+2026-02-14,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,34198,750000
+2026-02-15,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,28411,750000
+2026-02-16,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,30847,750000
+2026-02-17,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,41394,750000
+2026-02-18,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,51148,750000
+2026-02-20,CMP-1085,BrightSmile Dental,Los Angeles,Local Digital Display,K. Chen,39644,750000
+2026-05-21,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,23706,750000
+2026-05-22,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,27717,750000
+2026-05-23,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,18082,750000
+2026-05-24,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,20619,750000
+2026-05-25,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,21413,750000
+2026-05-26,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,17148,750000
+2026-05-27,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,24792,750000
+2026-05-28,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,20689,750000
+2026-05-29,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,23572,750000
+2026-05-30,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,16601,750000
+2026-05-31,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,19001,750000
+2026-06-02,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,25187,750000
+2026-06-03,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,19346,750000
+2026-06-05,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,30545,750000
+2026-06-07,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,19203,750000
+2026-06-08,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,22533,750000
+2026-06-09,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,26308,750000
+2026-06-10,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,13769,750000
+2026-06-12,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,11943,750000
+2026-06-13,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,13197,750000
+2026-06-14,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,28068,750000
+2026-06-15,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,18391,750000
+2026-06-16,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,34979,750000
+2026-06-17,CMP-1086,Coastal Bank,Miami,Linear Spot,M. Douglas,18325,750000
+2026-05-10,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,47609,250000
+2026-05-11,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,51595,250000
+2026-05-12,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,52071,250000
+2026-05-13,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,44742,250000
+2026-05-14,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,43159,250000
+2026-05-15,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,39452,250000
+2026-05-16,CMP-1087,Metro Realty,Washington DC,Linear Spot,R. Foster,41048,250000
+2026-07-12,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,16550,500000
+2026-07-14,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,20788,500000
+2026-07-15,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,19920,500000
+2026-07-16,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,18448,500000
+2026-07-17,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,24428,500000
+2026-07-18,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,25775,500000
+2026-07-19,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,21265,500000
+2026-07-20,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,28491,500000
+2026-07-21,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,14867,500000
+2026-07-22,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,19798,500000
+2026-07-23,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,17077,500000
+2026-07-24,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,11097,500000
+2026-07-26,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,20376,500000
+2026-07-27,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,20172,500000
+2026-07-28,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,28678,500000
+2026-07-29,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,24087,500000
+2026-07-30,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,15478,500000
+2026-07-31,CMP-1088,Vantage Health System,Chicago,OTT Display,K. Chen,30450,500000
+2026-07-11,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,8890,150000
+2026-07-12,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,7321,150000
+2026-07-13,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,5899,150000
+2026-07-14,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,7038,150000
+2026-07-15,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,9873,150000
+2026-07-16,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,11417,150000
+2026-07-17,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,10755,150000
+2026-07-18,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,6812,150000
+2026-07-19,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,5588,150000
+2026-07-20,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,8034,150000
+2026-07-21,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,4329,150000
+2026-07-22,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,8387,150000
+2026-07-23,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,7474,150000
+2026-07-24,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,6856,150000
+2026-07-25,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,4666,150000
+2026-07-26,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,8757,150000
+2026-07-27,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,6727,150000
+2026-07-28,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,5490,150000
+2026-07-30,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,2188,150000
+2026-07-31,CMP-1089,Metro Realty,Boston,OTT Display,R. Foster,7707,150000
+2026-07-16,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,29131,500000
+2026-07-17,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,18231,500000
+2026-07-18,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,17484,500000
+2026-07-19,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,22995,500000
+2026-07-21,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,15445,500000
+2026-07-22,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,22136,500000
+2026-07-23,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,24525,500000
+2026-07-24,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,26897,500000
+2026-07-25,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,20068,500000
+2026-07-26,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,19535,500000
+2026-07-27,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,16065,500000
+2026-07-28,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,16328,500000
+2026-07-29,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,19417,500000
+2026-07-30,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,22473,500000
+2026-07-31,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,25284,500000
+2026-08-01,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,16450,500000
+2026-08-03,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,28264,500000
+2026-08-04,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,19188,500000
+2026-08-05,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,20473,500000
+2026-08-06,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,16738,500000
+2026-08-07,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,8108,500000
+2026-08-08,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,25132,500000
+2026-08-10,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,24375,500000
+2026-08-11,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,19135,500000
+2026-08-12,CMP-1090,Coastal Bank,Dallas,OTT Display,K. Chen,20928,500000
+2026-03-29,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,10902,250000
+2026-03-30,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,15524,250000
+2026-03-31,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,21443,250000
+2026-04-01,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,12281,250000
+2026-04-02,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,19204,250000
+2026-04-03,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,11823,250000
+2026-04-04,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,19977,250000
+2026-04-05,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,17731,250000
+2026-04-06,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,10667,250000
+2026-04-07,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,23100,250000
+2026-04-08,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,14605,250000
+2026-04-09,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,14267,250000
+2026-04-10,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,18788,250000
+2026-04-11,CMP-1091,Northline Furniture,Washington DC,Linear Spot,R. Foster,23028,250000
+2026-07-03,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,19778,500000
+2026-07-04,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,21566,500000
+2026-07-05,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,22853,500000
+2026-07-06,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,20337,500000
+2026-07-07,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,17691,500000
+2026-07-08,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,15448,500000
+2026-07-09,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,19898,500000
+2026-07-10,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,14257,500000
+2026-07-11,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,5252,500000
+2026-07-12,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,21604,500000
+2026-07-13,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,23880,500000
+2026-07-14,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,7971,500000
+2026-07-15,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,14561,500000
+2026-07-17,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,22493,500000
+2026-07-18,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,29497,500000
+2026-07-19,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,19579,500000
+2026-07-20,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,15933,500000
+2026-07-21,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,18587,500000
+2026-07-22,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,26173,500000
+2026-07-23,CMP-1092,Summit Law Partners,Washington DC,Peacock Mid-roll,S. Patel,16332,500000
+2026-05-11,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,39762,750000
+2026-05-12,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,34442,750000
+2026-05-13,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,46606,750000
+2026-05-14,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,63586,750000
+2026-05-15,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,48871,750000
+2026-05-16,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,42366,750000
+2026-05-17,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,41920,750000
+2026-05-18,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,27547,750000
+2026-05-19,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,55202,750000
+2026-05-20,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,44339,750000
+2026-05-21,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,43179,750000
+2026-05-22,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,81317,750000
+2026-05-23,CMP-1093,BrightSmile Dental,Los Angeles,Peacock Pre-roll,R. Foster,48596,750000
+2026-03-21,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,13557,250000
+2026-03-22,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,19531,250000
+2026-03-23,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,15604,250000
+2026-03-24,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,9718,250000
+2026-03-25,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,18661,250000
+2026-03-26,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,12640,250000
+2026-03-27,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,22281,250000
+2026-03-28,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,19272,250000
+2026-03-29,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,13477,250000
+2026-03-30,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,20034,250000
+2026-03-31,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,15432,250000
+2026-04-01,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,18409,250000
+2026-04-02,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,17013,250000
+2026-04-03,CMP-1094,Vantage Health System,Boston,Linear Spot,J. Alvarez,11963,250000
+2026-05-26,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,12915,250000
+2026-05-27,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,9411,250000
+2026-05-28,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,9234,250000
+2026-05-29,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,7818,250000
+2026-05-30,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,11358,250000
+2026-05-31,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,15567,250000
+2026-06-01,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,7529,250000
+2026-06-02,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,10333,250000
+2026-06-03,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,13897,250000
+2026-06-04,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,10066,250000
+2026-06-05,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,11432,250000
+2026-06-06,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,7543,250000
+2026-06-08,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,11370,250000
+2026-06-09,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,9790,250000
+2026-06-10,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,12802,250000
+2026-06-11,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,13320,250000
+2026-06-12,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,16920,250000
+2026-06-13,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,11759,250000
+2026-06-14,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,11107,250000
+2026-06-15,CMP-1095,Summit Law Partners,Miami,Peacock Mid-roll,R. Foster,10770,250000
+2026-03-15,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,6954,150000
+2026-03-16,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,5938,150000
+2026-03-17,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,6681,150000
+2026-03-18,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,8523,150000
+2026-03-19,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,4798,150000
+2026-03-20,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,8238,150000
+2026-03-21,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,8522,150000
+2026-03-22,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,6222,150000
+2026-03-23,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,3010,150000
+2026-03-25,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,5437,150000
+2026-03-26,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,8490,150000
+2026-03-27,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,6374,150000
+2026-03-28,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,4809,150000
+2026-03-29,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,5602,150000
+2026-03-30,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,7758,150000
+2026-03-31,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,7287,150000
+2026-04-01,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,6028,150000
+2026-04-02,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,5823,150000
+2026-04-03,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,5783,150000
+2026-04-04,CMP-1096,Metro Realty,Washington DC,Peacock Mid-roll,R. Foster,4933,150000
+2026-07-19,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,7446,100000
+2026-07-20,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,10563,100000
+2026-07-21,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,11179,100000
+2026-07-22,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,10120,100000
+2026-07-23,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,7224,100000
+2026-07-24,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,8916,100000
+2026-07-25,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,8049,100000
+2026-07-26,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,6269,100000
+2026-07-27,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,8755,100000
+2026-07-28,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,5711,100000
+2026-07-29,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,10503,100000
+2026-07-30,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,7158,100000
+2026-07-31,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,8506,100000
+2026-08-01,CMP-1097,BrightSmile Dental,Washington DC,Linear Spot,S. Patel,8672,100000
+2026-07-18,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2481,50000
+2026-07-19,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,1907,50000
+2026-07-20,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2635,50000
+2026-07-22,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,1435,50000
+2026-07-23,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2232,50000
+2026-07-24,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,3213,50000
+2026-07-25,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,1622,50000
+2026-07-26,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,1797,50000
+2026-07-27,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2442,50000
+2026-07-28,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2261,50000
+2026-07-29,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2353,50000
+2026-07-30,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2428,50000
+2026-08-01,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2507,50000
+2026-08-02,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2764,50000
+2026-08-03,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2385,50000
+2026-08-04,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2033,50000
+2026-08-05,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2528,50000
+2026-08-06,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,3192,50000
+2026-08-07,CMP-1098,Vantage Health System,Dallas,CTV Video,S. Patel,2092,50000
+2026-03-23,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,112591,750000
+2026-03-24,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,85530,750000
+2026-03-25,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,40285,750000
+2026-03-26,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,106867,750000
+2026-03-27,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,76382,750000
+2026-03-28,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,86188,750000
+2026-03-29,CMP-1099,Summit Law Partners,Philadelphia,Peacock Mid-roll,K. Chen,95503,750000
+2026-03-20,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,60730,750000
+2026-03-21,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,45965,750000
+2026-03-22,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,58198,750000
+2026-03-23,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,48234,750000
+2026-03-24,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,61109,750000
+2026-03-25,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,59517,750000
+2026-03-26,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,39518,750000
+2026-03-27,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,65586,750000
+2026-03-28,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,44670,750000
+2026-03-29,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,62002,750000
+2026-03-30,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,56318,750000
+2026-03-31,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,75285,750000
+2026-04-01,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,48700,750000
+2026-04-02,CMP-1100,Summit Law Partners,New York,Linear Spot,S. Patel,47077,750000
+2026-03-18,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,7737,250000
+2026-03-19,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10046,250000
+2026-03-20,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,4989,250000
+2026-03-21,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,6166,250000
+2026-03-22,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,6137,250000
+2026-03-23,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10361,250000
+2026-03-24,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,11952,250000
+2026-03-26,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8153,250000
+2026-03-27,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8018,250000
+2026-03-28,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8518,250000
+2026-03-29,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10803,250000
+2026-03-30,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,6431,250000
+2026-04-01,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8870,250000
+2026-04-02,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10413,250000
+2026-04-03,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,9420,250000
+2026-04-04,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8768,250000
+2026-04-05,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10467,250000
+2026-04-06,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,2714,250000
+2026-04-07,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,9790,250000
+2026-04-08,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,7003,250000
+2026-04-09,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,4540,250000
+2026-04-10,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,9442,250000
+2026-04-11,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,11247,250000
+2026-04-12,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,8084,250000
+2026-04-14,CMP-1101,Vantage Health System,Los Angeles,Linear Spot,S. Patel,10366,250000
+2026-02-03,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,53788,250000
+2026-02-04,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,57078,250000
+2026-02-05,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,47991,250000
+2026-02-06,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,41244,250000
+2026-02-07,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,24268,250000
+2026-02-08,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,37990,250000
+2026-02-09,CMP-1102,Peak Insurance,New York,Peacock Mid-roll,R. Foster,31947,250000
+2026-05-29,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2732,50000
+2026-05-30,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2946,50000
+2026-05-31,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,3252,50000
+2026-06-01,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2889,50000
+2026-06-02,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,4069,50000
+2026-06-03,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2413,50000
+2026-06-04,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2997,50000
+2026-06-05,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2327,50000
+2026-06-06,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,1915,50000
+2026-06-07,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2421,50000
+2026-06-08,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2831,50000
+2026-06-09,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2551,50000
+2026-06-10,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2363,50000
+2026-06-11,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,1853,50000
+2026-06-12,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2798,50000
+2026-06-13,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,1783,50000
+2026-06-14,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,3401,50000
+2026-06-15,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2917,50000
+2026-06-16,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,1816,50000
+2026-06-17,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2637,50000
+2026-06-18,CMP-1103,Evergreen Energy Co,New York,Peacock Pre-roll,K. Chen,2320,50000
+2026-06-06,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,46647,500000
+2026-06-07,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,18560,500000
+2026-06-08,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,35944,500000
+2026-06-09,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,33540,500000
+2026-06-10,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,40803,500000
+2026-06-11,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,36801,500000
+2026-06-13,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,28370,500000
+2026-06-14,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,32152,500000
+2026-06-15,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,27986,500000
+2026-06-16,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,44338,500000
+2026-06-17,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,35125,500000
+2026-06-18,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,51545,500000
+2026-06-19,CMP-1104,Coastal Bank,Atlanta,OTT Display,S. Patel,34409,500000
+2026-03-24,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,37959,500000
+2026-03-25,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,33541,500000
+2026-03-26,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,36884,500000
+2026-03-27,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,65149,500000
+2026-03-29,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,68837,500000
+2026-03-30,CMP-1105,Vantage Health System,Dallas,Local Digital Display,R. Foster,36929,500000
+2026-03-13,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,13155,100000
+2026-03-14,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,15512,100000
+2026-03-15,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,20993,100000
+2026-03-16,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,18317,100000
+2026-03-17,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,13958,100000
+2026-03-18,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,11629,100000
+2026-03-19,CMP-1106,Coastal Bank,Philadelphia,CTV Video,K. Chen,6913,100000
+2026-04-19,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,21660,750000
+2026-04-20,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,17223,750000
+2026-04-21,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,22116,750000
+2026-04-22,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,23306,750000
+2026-04-23,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,21581,750000
+2026-04-24,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,19151,750000
+2026-04-25,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,23831,750000
+2026-04-26,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,25393,750000
+2026-04-27,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,16633,750000
+2026-04-29,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,30932,750000
+2026-04-30,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,22303,750000
+2026-05-01,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,22974,750000
+2026-05-02,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,26915,750000
+2026-05-03,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,24200,750000
+2026-05-04,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,28315,750000
+2026-05-05,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,24508,750000
+2026-05-06,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,19365,750000
+2026-05-08,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,24933,750000
+2026-05-09,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,16328,750000
+2026-05-10,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,23487,750000
+2026-05-11,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,22677,750000
+2026-05-12,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,21677,750000
+2026-05-13,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,22132,750000
+2026-05-14,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,12108,750000
+2026-05-15,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,19730,750000
+2026-05-16,CMP-1107,Metro Realty,Los Angeles,Peacock Pre-roll,J. Alvarez,23397,750000
+2026-07-04,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,25455,750000
+2026-07-05,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,45096,750000
+2026-07-06,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,26838,750000
+2026-07-07,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,42559,750000
+2026-07-08,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,37915,750000
+2026-07-09,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,28722,750000
+2026-07-10,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,49460,750000
+2026-07-11,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,24034,750000
+2026-07-12,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,42128,750000
+2026-07-13,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,42825,750000
+2026-07-14,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,28513,750000
+2026-07-16,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,46181,750000
+2026-07-17,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,32115,750000
+2026-07-18,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,36728,750000
+2026-07-19,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,36485,750000
+2026-07-20,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,33106,750000
+2026-07-21,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,41200,750000
+2026-07-22,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,41052,750000
+2026-07-24,CMP-1108,Summit Law Partners,New York,Peacock Pre-roll,M. Douglas,19281,750000
+2026-06-23,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,11442,250000
+2026-06-24,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,24635,250000
+2026-06-25,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,25096,250000
+2026-06-26,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,14240,250000
+2026-06-28,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,17569,250000
+2026-06-29,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,14168,250000
+2026-06-30,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,18528,250000
+2026-07-01,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,18072,250000
+2026-07-02,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,23397,250000
+2026-07-03,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,25994,250000
+2026-07-04,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,26412,250000
+2026-07-05,CMP-1109,Coastal Bank,Philadelphia,Peacock Mid-roll,S. Patel,16828,250000
+2026-01-23,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,7569,100000
+2026-01-24,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,10436,100000
+2026-01-25,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,16222,100000
+2026-01-26,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,18348,100000
+2026-01-27,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,9036,100000
+2026-01-28,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,11134,100000
+2026-01-29,CMP-1110,BrightSmile Dental,Chicago,Peacock Mid-roll,K. Chen,12983,100000
+2026-02-05,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,20800,750000
+2026-02-06,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,28843,750000
+2026-02-07,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,22989,750000
+2026-02-08,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,25984,750000
+2026-02-09,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,29640,750000
+2026-02-10,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,26120,750000
+2026-02-11,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,23233,750000
+2026-02-12,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,25364,750000
+2026-02-13,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,25502,750000
+2026-02-14,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,23666,750000
+2026-02-15,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,24391,750000
+2026-02-16,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,36501,750000
+2026-02-17,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,29736,750000
+2026-02-19,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,24152,750000
+2026-02-20,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,30623,750000
+2026-02-22,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,23902,750000
+2026-02-23,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,33727,750000
+2026-02-24,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,28489,750000
+2026-02-25,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,25379,750000
+2026-02-26,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,28998,750000
+2026-02-27,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,15837,750000
+2026-02-28,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,18732,750000
+2026-03-01,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,18294,750000
+2026-03-02,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,27011,750000
+2026-03-03,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,37374,750000
+2026-03-04,CMP-1111,Evergreen Energy Co,Miami,Peacock Mid-roll,R. Foster,40626,750000
+2026-05-11,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2042,50000
+2026-05-12,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,997,50000
+2026-05-13,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1569,50000
+2026-05-14,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1457,50000
+2026-05-15,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1533,50000
+2026-05-16,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1738,50000
+2026-05-17,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1601,50000
+2026-05-18,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,917,50000
+2026-05-19,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2154,50000
+2026-05-20,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1328,50000
+2026-05-21,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1923,50000
+2026-05-22,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2756,50000
+2026-05-23,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1398,50000
+2026-05-24,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,666,50000
+2026-05-25,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1685,50000
+2026-05-26,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2314,50000
+2026-05-27,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2704,50000
+2026-05-28,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1257,50000
+2026-05-29,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2040,50000
+2026-05-30,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1604,50000
+2026-05-31,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1767,50000
+2026-06-01,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,3015,50000
+2026-06-02,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1133,50000
+2026-06-03,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1930,50000
+2026-06-04,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2027,50000
+2026-06-05,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,2308,50000
+2026-06-06,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1859,50000
+2026-06-07,CMP-1112,Northline Furniture,Dallas,Local Digital Display,S. Patel,1955,50000
+2026-01-11,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,13615,100000
+2026-01-12,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,11662,100000
+2026-01-13,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,14739,100000
+2026-01-14,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,11578,100000
+2026-01-15,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,13959,100000
+2026-01-16,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,12663,100000
+2026-01-17,CMP-1113,Northline Furniture,Washington DC,Local Digital Display,M. Douglas,16348,100000
+2026-06-01,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,7427,100000
+2026-06-02,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,17549,100000
+2026-06-03,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,10319,100000
+2026-06-04,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,11160,100000
+2026-06-05,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,11353,100000
+2026-06-06,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,17924,100000
+2026-06-07,CMP-1114,Evergreen Energy Co,Miami,Linear Spot,M. Douglas,6217,100000
+2026-04-26,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2971,50000
+2026-04-27,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2482,50000
+2026-04-28,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2318,50000
+2026-04-29,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2518,50000
+2026-04-30,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2657,50000
+2026-05-01,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2730,50000
+2026-05-02,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2677,50000
+2026-05-03,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2403,50000
+2026-05-05,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2234,50000
+2026-05-06,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2262,50000
+2026-05-07,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2236,50000
+2026-05-08,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,3017,50000
+2026-05-09,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2699,50000
+2026-05-10,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,622,50000
+2026-05-11,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2736,50000
+2026-05-12,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2465,50000
+2026-05-13,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2339,50000
+2026-05-14,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2122,50000
+2026-05-15,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,3011,50000
+2026-05-16,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2907,50000
+2026-05-17,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,1896,50000
+2026-05-18,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2590,50000
+2026-05-19,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,1779,50000
+2026-05-21,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,1540,50000
+2026-05-22,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,1982,50000
+2026-05-23,CMP-1115,Vantage Health System,Dallas,Peacock Pre-roll,S. Patel,2857,50000
+2026-02-15,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,14162,250000
+2026-02-16,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,14827,250000
+2026-02-17,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,14171,250000
+2026-02-18,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,10539,250000
+2026-02-19,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,13907,250000
+2026-02-20,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,15063,250000
+2026-02-21,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,14919,250000
+2026-02-22,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,16282,250000
+2026-02-23,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,14774,250000
+2026-02-24,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,13654,250000
+2026-02-25,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,15910,250000
+2026-02-26,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,12468,250000
+2026-02-27,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,9784,250000
+2026-02-28,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,12040,250000
+2026-03-01,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,10214,250000
+2026-03-02,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,10433,250000
+2026-03-03,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,12098,250000
+2026-03-04,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,10065,250000
+2026-03-06,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,11585,250000
+2026-03-07,CMP-1116,Northline Furniture,Washington DC,Peacock Mid-roll,J. Alvarez,6609,250000
+2026-05-02,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,20697,150000
+2026-05-03,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,16464,150000
+2026-05-04,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,24101,150000
+2026-05-05,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,25541,150000
+2026-05-06,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,12375,150000
+2026-05-07,CMP-1117,Summit Law Partners,San Francisco,Local Digital Display,J. Alvarez,16745,150000
+2026-06-22,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,5790,250000
+2026-06-23,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,9138,250000
+2026-06-24,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7202,250000
+2026-06-26,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7068,250000
+2026-06-27,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,3777,250000
+2026-06-28,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,8771,250000
+2026-06-29,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,5223,250000
+2026-06-30,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7682,250000
+2026-07-01,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,8093,250000
+2026-07-02,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,10143,250000
+2026-07-03,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,5092,250000
+2026-07-04,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,1855,250000
+2026-07-05,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7916,250000
+2026-07-06,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,10975,250000
+2026-07-07,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,9913,250000
+2026-07-08,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7965,250000
+2026-07-09,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,6638,250000
+2026-07-10,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,9096,250000
+2026-07-11,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,5726,250000
+2026-07-12,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,8470,250000
+2026-07-13,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,8525,250000
+2026-07-15,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,9574,250000
+2026-07-16,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,12790,250000
+2026-07-17,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,8311,250000
+2026-07-18,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,6605,250000
+2026-07-19,CMP-1118,Coastal Bank,San Francisco,Local Digital Display,J. Alvarez,7520,250000
+2026-06-14,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1073,50000
+2026-06-15,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1166,50000
+2026-06-16,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1129,50000
+2026-06-17,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1348,50000
+2026-06-18,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1032,50000
+2026-06-19,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1663,50000
+2026-06-20,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1299,50000
+2026-06-21,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1296,50000
+2026-06-22,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1192,50000
+2026-06-23,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1349,50000
+2026-06-25,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1567,50000
+2026-06-26,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1017,50000
+2026-06-27,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1085,50000
+2026-06-28,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1200,50000
+2026-06-29,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,862,50000
+2026-06-30,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1033,50000
+2026-07-01,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1144,50000
+2026-07-02,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1583,50000
+2026-07-03,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1384,50000
+2026-07-04,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1362,50000
+2026-07-06,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1575,50000
+2026-07-07,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1254,50000
+2026-07-08,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1426,50000
+2026-07-09,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1265,50000
+2026-07-10,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1385,50000
+2026-07-11,CMP-1119,Metro Realty,Washington DC,Local Digital Display,R. Foster,1110,50000
+2026-07-02,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1117,50000
+2026-07-04,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1567,50000
+2026-07-05,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1423,50000
+2026-07-06,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1434,50000
+2026-07-07,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1513,50000
+2026-07-08,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1181,50000
+2026-07-09,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1212,50000
+2026-07-11,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,977,50000
+2026-07-12,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1064,50000
+2026-07-13,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1333,50000
+2026-07-15,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1503,50000
+2026-07-17,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1115,50000
+2026-07-18,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1025,50000
+2026-07-19,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1156,50000
+2026-07-20,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1329,50000
+2026-07-21,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,738,50000
+2026-07-22,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,492,50000
+2026-07-23,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,996,50000
+2026-07-24,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,803,50000
+2026-07-25,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1009,50000
+2026-07-26,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1113,50000
+2026-07-27,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1024,50000
+2026-07-29,CMP-1120,Metro Realty,Chicago,Peacock Mid-roll,R. Foster,1575,50000

@@ -1,0 +1,6 @@
+SMILES,Name,Activity,
+OCNC1=CC=CC(O)=C1,Molecule_1,Active,
+NCCC1CC1,Molecule_2,Inactive,
+CN(C)(C)CO,Molecule_3,Inactive,
+CCN1CCCCC1,Molecule_4, Active,
+C1=CC=C(CCC2CN2)C=C1,Moelcule_5,Active,
